@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MEEKET KETAN TANK</h1>
 <h3 align="center">A passionate learning developer and a student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2104meekettank" alt="2104meekettank" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tankmeeket" target="blank"><img src="https://img.shields.io/twitter/follow/tankmeeket?logo=twitter&style=for-the-badge" alt="tankmeeket" /></a> </p>
 
 - 📝 I upload my youtube videos on on [https://m.youtube.com/channel/UC-4pQUnb5MiLA0HYjaQMaMg](https://m.youtube.com/channel/UC-4pQUnb5MiLA0HYjaQMaMg)
