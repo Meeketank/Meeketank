@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeketank&label=Profile%20views&color=0e75b6&style=flat" alt="meeketank" />
-
-[!](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meeketank" alt="meeketank" /></a> </p>
