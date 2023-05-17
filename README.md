@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meeket Ketan Tank</h1>
 <h3 align="center">A passionate and Innovative developer from India</h3>
 
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
-
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meeketank&label=Profile%20views&color=0e75b6&style=flat" alt="meeketank" /> </p>
@@ -40,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meeketank&show_icons=true&locale=en" alt="meeketank" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meeketank&" alt="meeketank" /></p>
+
+
+[!](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
