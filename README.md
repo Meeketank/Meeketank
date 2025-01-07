@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar"><img src="https://github-profile-trophy.vercel.app/?username=meeketank" alt="meeketank"></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=meeketan"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar" alt="meeketank"></a>
 </p>
 
 <p align="left">
