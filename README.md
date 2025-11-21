@@ -41,6 +41,18 @@
 
 </div>
 
+## 🎯 Current Focus & Goals
+<div align="center">
+
+```javascript
+const goals = {
+  currentFocus: "Advanced Computer Engineering",
+  learning: ["AI/ML", "Cloud Architecture", "System Design"],
+  projects: ["Full-Stack Applications", "AI Solutions", "Open Source"],
+  target: "Become a Tech Lead in 2 years"
+};
+```
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -76,3 +88,25 @@
 ⚛️  React        🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜    60%
 📊 Data Science  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜    50%
 ☁️  Cloud        🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜    30%
+```
+</div>
+## 🌐 Connect With Me
+<div align="center" style="background: linear-gradient(135deg, rgba(255, 0, 255, 0.1) 0%, rgba(0, 255, 136, 0.1) 100%); backdrop-filter: blur(15px); border-radius: 25px; padding: 25px; border: 1px solid rgba(255, 0, 255, 0.3); margin: 25px 0; box-shadow: 0 8px 32px rgba(255, 0, 255, 0.2);">
+
+<a href="https://linkedin.com/in/meekettank" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" height="40">
+</a>
+<a href="https://www.youtube.com/c/meekettank" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube" height="40">
+</a>
+<a href="https://www.codechef.com/users/mp70472200178" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" alt="CodeChef" height="40">
+</a>
+<a href="mailto:meeketketantank@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" height="40">
+</a>
+<a href="https://leetcode.com/u/meeketank/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode" height="40">
+</a>
+
+</div>
