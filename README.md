@@ -43,9 +43,7 @@
 </a>
 
 <!-- Streak Stats -->
-<a href="https://github.com/meeketank">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=meeketank&theme=transparent&border_color=00ff88&fire=00ff88&ring=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" style="border-radius: 20px;"/>
-</a>
+
 
 </div>
 
