@@ -1,130 +1,142 @@
-<h1 align="center">Hi 👋, I'm Meeket Ketan Tank</h1>
-<h3 align="center">A passionate and innovative developer from India</h3>
+<h1 align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="35" style="border-radius: 10px;">
+  Hi 👋, I'm Meeket Ketan Tank
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="35" style="border-radius: 10px;">
+</h1>
+<h3 align="center">💻 Passionate Developer & Tech Innovator from India</h3>
+
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding" width="400">
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=meeketank&label=Profile%20views&color=0e75b6&style=flat" alt="meeketank">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding" width="400" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 255, 255, 0.3);">
 </p>
 
-<p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=meeketan"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar" alt="meeketank"></a>
-</p>
+<div align="center">
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=meeketank&label=Profile%20Views&color=0e75b6&style=for-the-badge&labelColor=1e1e2e)
+![GitHub Followers](https://img.shields.io/github/followers/meeketank?label=Followers&style=for-the-badge&color=00ff88&labelColor=1e1e2e)
 
-- 🌱 I’m currently learning **Computer Engineering**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/meekettank/details/projects/](https://www.linkedin.com/in/meekettank/details/projects/)
+## 🏆 GitHub Trophies
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=meeketank&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
-- 📝 I regularly write articles on [Data and Technology](Data and Technology)
+</div>
 
-- 💬 Ask me about **HTML, Python, C, C++, JavaScript, CSS**
+## 🚀 About Me
 
-- 📫 How to reach me **meeketketantank@gmail.com**
+<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
 
-- 📄 Know about my experiences [https://in.linkedin.com/in/meekettank](https://in.linkedin.com/in/meekettank)
+- 🎓 **Currently Learning:** Computer Engineering
+- 💼 **All my projects:** [LinkedIn Projects](https://www.linkedin.com/in/meekettank/details/projects/)
+- ✍️ **I write about:** Data Science & Technology
+- 💬 **Ask me about:** HTML, Python, C, C++, JavaScript, CSS
+- 📧 **Reach me at:** meeketketantank@gmail.com
+- 📄 **My experiences:** [LinkedIn Profile](https://in.linkedin.com/in/meekettank)
+- ⚡ **Fun fact:** Nothing is hard unless you try! 💪
 
-- ⚡ Fun fact **Nothing is hard unless you try**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/meekettank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meekettank" height="30" width="40"></a>
-  <a href="https://www.youtube.com/c/meekettank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meekettank" height="30" width="40"></a>
-  <a href="https://www.codechef.com/users/mp70472200178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mp70472200178" height="30" width="40"></a>
-</p>
+## 📊 GitHub Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40">
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40">
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40">
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40">
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40">
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">
-  </a>
-  <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40">
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40">
-  </a>
-</p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meeketank&show_icons=true&locale=en&layout=compact" alt="meeketank" /></p>
+<!-- Stats Grid -->
+<a href="https://github.com/meeketank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meeketank&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&border_radius=20&border_color=444" alt="Meeket's GitHub Stats" style="border-radius: 20px;"/>
+</a>
+<a href="https://github.com/meeketank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meeketank&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&border_radius=20&border_color=444" alt="Top Languages" style="border-radius: 20px;"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meeketank&show_icons=true&locale=en" alt="meeketank" /></p>
+<!-- Streak Stats -->
+<a href="https://github.com/meeketank">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=meeketank&theme=radical&background=0d1117&border_radius=20&border=444&fire=00ff88&ring=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" style="border-radius: 20px;"/>
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meeketank&" alt="meeketank" /></p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""></a> </p>
+## 🌐 Connect With Me
 
-- 🌱 I’m currently learning **Computer Engineering**
+<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/meekettank/details/projects/](https://www.linkedin.com/in/meekettank/details/projects/)
+<a href="https://linkedin.com/in/meekettank" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e" alt="LinkedIn" height="30">
+</a>
+<a href="https://www.youtube.com/c/meekettank" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1e1e2e" alt="YouTube" height="30">
+</a>
+<a href="https://www.codechef.com/users/mp70472200178" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1e2e" alt="CodeChef" height="30">
+</a>
+<a href="mailto:meeketketantank@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e" alt="Gmail" height="30">
+</a>
 
-- 📝 I regularly write articles on [Data and Technology](Data and Technology)
+</div>
 
-- 💬 Ask me about **HTML, Python, C, C++, JavaScript, CSS**
+## 💻 Tech Stack & Tools
 
-- 📫 How to reach me **meeketketantank@gmail.com**
+<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
 
-- 📄 Know about my experiences [https://in.linkedin.com/in/meekettank](https://in.linkedin.com/in/meekettank)
+### 🗣️ Languages
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=1e1e2e" alt="C" height="30">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1e1e2e" alt="C++" height="30">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1e2e" alt="Python" height="30">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1e1e2e" alt="JavaScript" height="30">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e1e2e" alt="HTML5" height="30">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1e2e" alt="CSS3" height="30">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=1e1e2e" alt="Java" height="30">
 
-- ⚡ Fun fact **Nothing is hard unless you try**
+### 🛠️ Frameworks & Libraries
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1e1e2e" alt="React" height="30">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1e1e2e" alt="TensorFlow" height="30">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/meekettank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meekettank" height="30" width="40"></a>
-  <a href="https://www.youtube.com/c/meekettank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meekettank" height="30" width="40"></a>
-  <a href="https://www.codechef.com/users/mp70472200178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mp70472200178" height="30" width="40"></a>
-</p>
+### 🗄️ Databases & Cloud
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1e2e" alt="MySQL" height="30">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1e2e" alt="Oracle" height="30">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1e1e2e" alt="Firebase" height="30">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1e1e2e" alt="Google Cloud" height="30">
+
+### 🎨 Design & Tools
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1e1e2e" alt="Figma" height="30">
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=1e1e2e" alt="Illustrator" height="30">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=1e1e2e" alt="Photoshop" height="30">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1e2e" alt="Git" height="30">
+
+### 🔌 Hardware & IoT
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1e1e2e" alt="Android" height="30">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1e1e2e" alt="Arduino" height="30">
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=1e1e2e" alt="Raspberry Pi" height="30">
+<img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=1e1e2e" alt="Matlab" height="30">
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Meeket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meeketank&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)](https://github.com/meeketank)
+
+</div>
+
+## 🎯 Current Focus
+
+<div align="center" style="background: linear-gradient(135deg, rgba(0, 255, 136, 0.1), rgba(0, 255, 255, 0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(0, 255, 136, 0.3); margin: 20px 0;">
+
+🚀 **Advancing in Computer Engineering**  
+💡 **Building innovative projects with AI/ML**  
+🌐 **Full-stack development mastery**  
+📚 **Continuous learning and skill enhancement**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+⭐️ From [Meeket Tank](https://github.com/meeketank)
+
+</div>
