@@ -16,13 +16,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=meeketank&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
 ## 🚀 About Me
 
 <div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
