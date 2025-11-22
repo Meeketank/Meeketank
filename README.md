@@ -104,14 +104,6 @@
 
 </div>
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Meeket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meeketank&theme=react-dark&bg_color=00000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)](https://github.com/meeketank)
-
-</div>
-
 ## 🎯 Current Focus
 
 <div align="left" style="background: linear-gradient(135deg, rgba(0, 255, 136, 0.1), rgba(0, 255, 255, 0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(0, 255, 136, 0.3); margin: 20px 0;">
