@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
+<div align="left" style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
 
 - 🎓 **Currently Learning:** Computer Engineering
 - 💼 **All my projects:** [LinkedIn Projects](https://www.linkedin.com/in/meekettank/details/projects/)
@@ -27,6 +27,7 @@
 - 📧 **Reach me at:** meeketketantank@gmail.com
 - 📄 **My experiences:** [LinkedIn Profile](https://in.linkedin.com/in/meekettank)
 - ⚡ **Fun fact:** Nothing is hard unless you try! 💪
+- 🎖️ **Creadly Badges:** [Profile](https://www.credly.com/users/meeketank/badges#credly)
 
 </div>
 
