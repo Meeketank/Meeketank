@@ -50,7 +50,7 @@
 
 ## 🌐 Connect With Me
 
-<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
+<div align="left" style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
 
 <a href="https://linkedin.com/in/meekettank" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
@@ -69,7 +69,7 @@
 
 ## 💻 Tech Stack & Tools
 
-<div align="center" style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
+<div align="left" style="background: linear-gradient(135deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 25px; border: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
 
 ### 🗣️ Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30">
@@ -114,7 +114,7 @@
 
 ## 🎯 Current Focus
 
-<div align="center" style="background: linear-gradient(135deg, rgba(0, 255, 136, 0.1), rgba(0, 255, 255, 0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(0, 255, 136, 0.3); margin: 20px 0;">
+<div align="left" style="background: linear-gradient(135deg, rgba(0, 255, 136, 0.1), rgba(0, 255, 255, 0.05)); backdrop-filter: blur(10px); border-radius: 20px; padding: 20px; border: 1px solid rgba(0, 255, 136, 0.3); margin: 20px 0;">
 
 🚀 **Advancing in Computer Engineering**  
 💡 **Building innovative projects with AI/ML**  
